@@ -33,7 +33,7 @@ const produtos = [
     { nome: "Moreninha", preco: 3.50, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete com calda", img: "SORVETES/mopreninha.jpg" },
     { nome: "Picolés Sortidos", preco: 2.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Diversos sabores", img: "SORVETES/PICOLÉS.png" },
     { nome: "Pote 1 Litro/unidade", preco: 10.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete para levar", img: "SORVETES/pote 1l.jpeg" },
-    { nome: "Pote 2 Litros", preco: 20.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete para levar", img: "SORVETES/pote2l.jpeg" },
+    { nome: "Sundae", preco: 2.50, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete para levar", img: "SORVETES/pote2l.jpeg" },
 
     // ===== BEBIDAS =====
     { nome: "Água", preco: 3.00, categoria: "bebida", tipoAddon: "bebida", desc: "Garrafa 500ml", img: "BEBIDAS/Água Sem Gás Crystal 500ml - Swift.jpg" },
