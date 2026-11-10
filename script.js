@@ -44,7 +44,7 @@ const produtos = [
     { nome: "Gebom Pudim 2L/1kg", preco: 36.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Pote 2 litros / 1 kg", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.08.jpeg" },
     { nome: "Gebom Buu Chiclete com Banana", preco: 6.70, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete no palito", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.08 (1).jpeg" },
     { nome: "Gebom Mousse de Morango", preco: 7.25, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete no palito", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.08 (2).jpeg" },
-    { nome: "Gebom Gecone Morango", preco: 11.90, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete no palito", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.08 (1).jpeg" },
+    { nome: "Gebom Gecone Morango", preco: 11.90, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete no palito", img: "indefinido/gkone morango.jpeg" },
     { nome: "Gebom Paçoquinha", preco: 7.50, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete no palito", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.07.jpeg" },
     { nome: "Gebom Buu Açaí 200g", preco: 13.50, categoria: "sorvete", tipoAddon: "sorvete", desc: "Pote 1kg", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.07 (1).jpeg" },
     { nome: "Gebom Açaí Clássico 200g", preco: 13.50, categoria: "sorvete", tipoAddon: "sorvete", desc: "Copo 200g", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.07 (2).jpeg" },
