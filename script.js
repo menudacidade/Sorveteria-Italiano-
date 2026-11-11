@@ -36,7 +36,7 @@ const produtos = [
     { nome: "Pote 2 Litros", preco: 20.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Sorvete para levar", img: "SORVETES/pote2l.jpeg" },
 
     // ===== NOVOS SORVETES (LISTA ENVIADA) =====
-    { nome: "pote 1l sorvete Italiano Baunilha", preco: 15.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Pote 1 litros", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.10.jpeg" },
+    { nome: "pote 1l sorvete Italiano Baunilha", preco: 15.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Pote 1 litros", img: "SORVETES/WhatsApp Image 2026-11-11 at 06.45.42.jpeg" },
     { nome: "pote 1l sorvete Italiano Misto", preco: 15.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Pote 1 litros", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.10.jpeg" },
     { nome: "Sundae Misto", preco: 2.50, categoria: "sorvete", tipoAddon: "sorvete", desc: "copinho", img: "SORVETES/WhatsApp Image 2026-11-11 at 06.39.02.jpeg" },
     { nome: "Gebom Casadinho 2L", preco: 36.00, categoria: "sorvete", tipoAddon: "sorvete", desc: "Pote 2 litros", img: "SORVETES/WhatsApp Image 2026-10-29 at 16.35.10.jpeg" },
